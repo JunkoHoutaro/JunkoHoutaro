@@ -63,4 +63,4 @@
 <a href="#" target="_blank">
   <img src="svg/Junko-quotes.svg" width="846" height="150" alt="Junko-Houtarou" />
 </a>
-
+![JunkoHoutaro's Stats](https://github-readme-stats.vercel.app/api?username=JunkoHoutaro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
