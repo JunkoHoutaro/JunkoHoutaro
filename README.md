@@ -23,21 +23,30 @@
   <span><img src="https://img.shields.io/badge/Microsoft_SQL_Server-282C34?logo=microsoftsqlserver&logoColor=CC2927" height="30" /></span>
   <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" height="30" /></span>
 
-  <!-- Tools -->
-  <span><img src="https://img.shields.io/badge/Slack-282C34?logo=slack&logoColor=FBBC04" height="30" /></span>
-  <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" height="30" /></span>
-  <span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="30" /></span>
-  <span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" height="30" /></span>
-  <span><img src="https://img.shields.io/badge/CodePen-282C34?logo=codepen&logoColor=fff" height="30" /></span>
-  <span><img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=00C4CC" height="30" /></span>
-  <span><img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=F37626" height="30" /></span>
-  <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="30" /></span>
+<!-- Java & Backend -->
+<br/><br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
-  <!-- Java & Spring -->
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<!-- IDEs -->
+<br/><br/>
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+<!-- Tools -->
+<br/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
 </div>
 
 ---
