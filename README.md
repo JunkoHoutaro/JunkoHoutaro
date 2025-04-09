@@ -45,6 +45,12 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JunkoHoutaro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JunkoHoutaro&theme=vue-dark&hide_border=true" height="150"/>
+</p>
 <h2 align="center"> Where to find me </h2>
 <br>
 <!-- https://icons8.com -->
@@ -59,10 +65,9 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Junko-email" />
   </a>
 </div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JunkoHoutaro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JunkoHoutaro&theme=vue-dark&hide_border=true" height="150"/>
-</p>
+
+
+---
 <br>
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
@@ -71,5 +76,4 @@
   <img src="svg/Junko-quotes.svg" width="846" height="150" alt="Junko-Houtarou" />
 </a> 
 
-![JunkoHoutaro's Stats](https://github-readme-stats.vercel.app/api?username=JunkoHoutaro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
