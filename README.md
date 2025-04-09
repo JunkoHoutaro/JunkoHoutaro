@@ -51,7 +51,7 @@
   <a href="https://www.instagram.com/junko.houtarou/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Junko-instagram" />
   </a>
-  <a href="mailto:phuhaon934@gmail.com" target="top">
+  <a href="mailto:phuhaon394@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Junko-email" />
   </a>
 </div>
@@ -62,5 +62,5 @@
 <br>
 <a href="#" target="_blank">
   <img src="svg/Junko-quotes.svg" width="846" height="150" alt="Junko-Houtarou" />
-</a>
+</a> 
 ![JunkoHoutaro's Stats](https://github-readme-stats.vercel.app/api?username=JunkoHoutaro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
